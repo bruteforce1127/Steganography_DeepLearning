@@ -84,8 +84,6 @@ The model was evaluated on a held-out test set containing equal numbers of Cover
 | Metric | Result |
 | :--- | :--- |
 | **Accuracy** | **93.90%** |
-| **Precision** | [Insert Value]% |
-| **Recall** | [Insert Value]% |
 
 *Technique used: Spatial Domain LSB Detection*
 
